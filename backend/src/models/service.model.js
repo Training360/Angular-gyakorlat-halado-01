@@ -1,0 +1,1 @@
+// 1. feladat: pótold a service modellt.
