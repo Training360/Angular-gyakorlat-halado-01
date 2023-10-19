@@ -1,8 +1,4 @@
-# Struktúraváltás FullStackAPI Záróvizsga 
-
-## Bevezető
-Kedves Barátom!  
-Örülök, hogy köszönthetlek ezen a vizsgán, és sok sikert kívánok neked.  
+# Angular Gyakorlat Haladó 01 
 
 ## Hasznos tudnivalók
 - A feladatok nehezedő sorrendben vannak. Először olvasd el az összeset, és számodra egyre nehezedő sorrendben oldd meg.
